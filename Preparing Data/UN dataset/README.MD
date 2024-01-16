@@ -49,4 +49,4 @@ To visualize the data, I use charts and maps in Google. I create the following g
 
 The visualisation is shown below:
 
-![UN data set visual](/assets/Preparing%20Data/UN%20dataset/Screenshot%202024-01-16 135311.png "A complex visualisation of the UN world migration data for 2021")
+![UN data set visual](../../assets/Preparing%20Data/UN%20dataset/Screenshot%202024-01-16%20135311.png)
