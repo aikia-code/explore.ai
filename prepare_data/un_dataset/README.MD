@@ -1,6 +1,6 @@
 # Introduction
 
-In this project, I explore the sample data of refugee migration and administrative cost in 2021. The data is obtained from the ExploreAI Data Analytics course and shows the number of refugees, the countries hosting them, the assistance provided by the UNHCR, and the associated costs. I use different types of formulae as well as graphs and maps i Google sheets to visualise the data and reveal some interesting insights. [Explore file here](https://docs.google.com/spreadsheets/d/1ky8ATtA07hN28YCfKblYm2Jp6PxkF-NJ/edit?usp=sharing&ouid=108371581388584348202&rtpof=true&sd=true)
+In this project, I explore the sample data of refugee migration and administrative cost in 2021. The data is obtained from the ExploreAI Data Analytics course and shows the number of refugees, the countries hosting them, the assistance provided by the UNHCR, and the associated costs. I use different types of formulae as well as graphs and maps i Google sheets to visualize the data and reveal some interesting insights. [Explore file here](https://docs.google.com/spreadsheets/d/1ky8ATtA07hN28YCfKblYm2Jp6PxkF-NJ/edit?usp=sharing&ouid=108371581388584348202&rtpof=true&sd=true)
 
 ## Data Source
 
@@ -16,14 +16,14 @@ The data covers 163 host countries and a total of 20.82 million refugees.
 
 ## Data Analysis
 
-To analyse the data, I use Google sheets to perform the following steps:
+To analyze the data, I use Google sheets to perform the following steps:
 
 1. Load data in Google sheets.
-2. Group data via pivot tables by Territory of assylum and by Territory of origin.
+2. Group data via pivot tables by Territory of asylum and by Territory of origin.
 3. Sort the data by the number of refugees.
-4. Explore aggregates of the numeric data and summaries of interesting statistics to gain an aunnderstanding of data.
+4. Explore aggregates of the numeric data and summaries of interesting statistics to gain an understanding of data.
 5. Generate Key statistics using conditional formulae, and lookup functions.
-6. Visualise Key statistics with scorecard chart.
+6. Visualize Key statistics with scorecard chart.
 7. Display map of countries with refugee concentrations as color intensity.
 
 The main findings of the analysis are:
@@ -46,7 +46,6 @@ To visualize the data, I use charts and maps in Google. I create the following g
 - A scatter plot showing the relationship between the cost to host and the number of refugees assisted, with a trend line
 - A statistic showing the percentage of refugees from Syria and the administrative cost to host refugees in Turkey
 
+The visualization is shown below:
 
-The visualisation is shown below:
-
-![UN data set visual](../../assets/Preparing%20Data/UN%20dataset/Screenshot%202024-01-16%20135311.png)
+![UN data set visual](../../assets/prepare_data/un_dataset/Screenshot%202024-01-16%20135311.png)
