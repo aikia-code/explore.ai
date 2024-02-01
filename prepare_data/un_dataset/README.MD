@@ -1,6 +1,6 @@
 # Introduction
 
-In this project, I explore the sample data of refugee migration and administrative cost in 2021. The data is obtained from the ExploreAI Data Analytics course and shows the number of refugees, the countries hosting them, the assistance provided by the UNHCR, and the associated costs. I use different types of formulae as well as graphs and maps i Google sheets to visualize the data and reveal some interesting insights. [Explore file here](https://docs.google.com/spreadsheets/d/1ky8ATtA07hN28YCfKblYm2Jp6PxkF-NJ/edit?usp=sharing&ouid=108371581388584348202&rtpof=true&sd=true)
+I explore the sample data of refugee migration and administrative cost in 2021. The data is obtained from the ExploreAI Data Analytics course and shows the number of refugees, the countries hosting them, the assistance provided by the UNHCR, and the associated costs. I use different types of formulae as well as graphs and maps i Google sheets to visualize the data and reveal some interesting insights. [Explore file here](https://docs.google.com/spreadsheets/d/1ky8ATtA07hN28YCfKblYm2Jp6PxkF-NJ/edit?usp=sharing&ouid=108371581388584348202&rtpof=true&sd=true)
 
 ## Data Source
 

@@ -1,3 +1,16 @@
 # Preparing data
 
-developing essential data and spreadsheet skills, covering topics such as data sources and access, data aggregations and descriptive statistics, data visualization, data formatting and cleaning, samples and distributions, spreadsheet functions, and identifying patterns.
+Collection of data cleaning and spreadsheet works
+
+## Types of projects
+
+- data cleaning
+- data visualization
+- data transformation
+- spreadsheet summary
+- data forecasting
+
+## Technology used
+
+- Excel
+- Google Sheets

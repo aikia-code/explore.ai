@@ -1,3 +1,18 @@
 # Explore101
 
-An introduction to the ExploreAI Data Analytics course, covering topics such as data and data analytics, ways of work at ExploreAI, problem solving, and flowcharts and pseudocode.
+Collection of small classification programs and algorithms
+
+## Types of projects
+
+- Problem solving
+- flow charts
+- pseudo code
+- tables
+- scripts
+- classification algorithms
+
+## Technology used
+
+- Markdown
+- pseudo code
+- diagrams
