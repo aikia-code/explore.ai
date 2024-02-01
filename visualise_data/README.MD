@@ -1,3 +1,15 @@
-# Visualising Data 
+# Visualize Data
 
-A module on data storytelling, communication, design, visualisation, dashboards and reports, covering topics such as communicating our findings, design for impactful communication, an introduction to dashboards and reports, creating and formatting visuals in Power BI, data models and transformations in Power BI, calculated columns and aggregations with DAX, building reports and dashboards, and exploratory data analysis in Power BI1.
+Collection of data Data visualization and BI projects
+
+## Types of projects
+
+- data query
+- data transformation
+- data visualization
+- data analysis
+- data forecasting
+
+## Technology used
+
+- Power BI
